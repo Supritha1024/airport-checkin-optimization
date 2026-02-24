@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 Hour,Passengers,Avg_Service_Time
 06:00,40,3
 07:00,55,2.8
 08:00,80,3.2
-=======
-Time,Passengers,Avg_Service_Time
-06:00,40,3
-07:00,55,2.8
-08:00,80,3.2
->>>>>>> 2f15d944b0a3e414772561dfd89cb53f02cbcd1d
 09:00,120,3.5
